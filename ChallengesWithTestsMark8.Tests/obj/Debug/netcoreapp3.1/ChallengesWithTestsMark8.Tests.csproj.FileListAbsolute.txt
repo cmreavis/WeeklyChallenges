@@ -102,13 +102,13 @@ C:\Users\cmrea\repos\WeeklyChallenge\WeeklyChallenges\ChallengesWithTestsMark8.T
 C:\Users\cmrea\repos\WeeklyChallenge\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.dll
 C:\Users\cmrea\repos\WeeklyChallenge\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.pdb
 C:\Users\cmrea\repos\WeeklyChallenge\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
-C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
-C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
 C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.deps.json
 C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.json
 C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
 C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.exe
+C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
 C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.deps.json
 C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.runtimeconfig.json
 C:\Users\cmrea\Repos\WeeklyChallenges\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.runtimeconfig.dev.json
